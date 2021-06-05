@@ -8,4 +8,6 @@
 .externalNativeBuild
 .cxx
 local.properties
-gradle.properties
+.env
+
+app/sub/secret.gradle
